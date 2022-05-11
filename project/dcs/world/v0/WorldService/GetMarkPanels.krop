@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.world.v0.WorldService.GetMarkPanels"
+  },
+  "requests": [
+    {
+      "location": "GetMarkPanels-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

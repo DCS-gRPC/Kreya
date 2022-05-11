@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.custom.v0.CustomService.GetMissionStatus"
+  },
+  "requests": [
+    {
+      "location": "GetMissionStatus-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

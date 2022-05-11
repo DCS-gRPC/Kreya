@@ -1,0 +1,12 @@
+{
+  "coalition": "COALITION_ALL",
+  "name": "{{ faker.name.last_name }}",
+  "path": [
+    "fooBar",
+    "fooBar"
+  ],
+  "details": {
+    "value1": "fooBar",
+    "value2": 123
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.unit.v0.UnitService.GetPosition"
+  },
+  "requests": [
+    {
+      "location": "GetPosition-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

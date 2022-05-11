@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.unit.v0.UnitService.Get"
+  },
+  "requests": [
+    {
+      "location": "Get-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

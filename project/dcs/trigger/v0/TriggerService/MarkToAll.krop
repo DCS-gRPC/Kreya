@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.trigger.v0.TriggerService.MarkToAll"
+  },
+  "requests": [
+    {
+      "location": "MarkToAll-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

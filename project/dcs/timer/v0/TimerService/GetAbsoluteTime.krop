@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.timer.v0.TimerService.GetAbsoluteTime"
+  },
+  "requests": [
+    {
+      "location": "GetAbsoluteTime-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

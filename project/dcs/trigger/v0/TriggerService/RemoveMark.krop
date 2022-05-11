@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.trigger.v0.TriggerService.RemoveMark"
+  },
+  "requests": [
+    {
+      "location": "RemoveMark-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

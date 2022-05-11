@@ -1,0 +1,8 @@
+{
+  "coalition": "COALITION_ALL",
+  "name": "{{ faker.name.last_name }}",
+  "path": [
+    "fooBar",
+    "fooBar"
+  ]
+}

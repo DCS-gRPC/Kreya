@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.unit.v0.UnitService.GetDescriptor"
+  },
+  "requests": [
+    {
+      "location": "GetDescriptor-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

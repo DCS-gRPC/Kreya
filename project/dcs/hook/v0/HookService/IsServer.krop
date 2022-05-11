@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.hook.v0.HookService.IsServer"
+  },
+  "requests": [
+    {
+      "location": "IsServer-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

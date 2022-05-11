@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.hook.v0.HookService.BanPlayer"
+  },
+  "requests": [
+    {
+      "location": "BanPlayer-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

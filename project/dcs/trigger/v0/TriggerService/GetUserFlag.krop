@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.trigger.v0.TriggerService.GetUserFlag"
+  },
+  "requests": [
+    {
+      "location": "GetUserFlag-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

@@ -1,0 +1,5 @@
+{
+  "pollRate": 123,
+  "maxBackoff": 123,
+  "category": "GROUP_CATEGORY_UNSPECIFIED"
+}

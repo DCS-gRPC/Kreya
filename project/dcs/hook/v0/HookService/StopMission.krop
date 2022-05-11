@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.hook.v0.HookService.StopMission"
+  },
+  "requests": [
+    {
+      "location": "StopMission-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

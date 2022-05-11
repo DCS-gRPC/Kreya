@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.world.v0.WorldService.GetAirbases"
+  },
+  "requests": [
+    {
+      "location": "GetAirbases-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

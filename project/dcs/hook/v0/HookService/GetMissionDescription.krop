@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.hook.v0.HookService.GetMissionDescription"
+  },
+  "requests": [
+    {
+      "location": "GetMissionDescription-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

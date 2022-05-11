@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.hook.v0.HookService.IsMultiplayer"
+  },
+  "requests": [
+    {
+      "location": "IsMultiplayer-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

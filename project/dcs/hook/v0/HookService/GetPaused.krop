@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.hook.v0.HookService.GetPaused"
+  },
+  "requests": [
+    {
+      "location": "GetPaused-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.unit.v0.UnitService.SetEmission"
+  },
+  "requests": [
+    {
+      "location": "SetEmission-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

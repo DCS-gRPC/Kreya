@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.coalition.v0.CoalitionService.GetPlayerUnits"
+  },
+  "requests": [
+    {
+      "location": "GetPlayerUnits-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

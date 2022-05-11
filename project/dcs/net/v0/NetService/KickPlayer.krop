@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.net.v0.NetService.KickPlayer"
+  },
+  "requests": [
+    {
+      "location": "KickPlayer-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

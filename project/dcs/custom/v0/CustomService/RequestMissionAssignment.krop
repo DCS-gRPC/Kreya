@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.custom.v0.CustomService.RequestMissionAssignment"
+  },
+  "requests": [
+    {
+      "location": "RequestMissionAssignment-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

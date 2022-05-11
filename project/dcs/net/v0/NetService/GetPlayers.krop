@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.net.v0.NetService.GetPlayers"
+  },
+  "requests": [
+    {
+      "location": "GetPlayers-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

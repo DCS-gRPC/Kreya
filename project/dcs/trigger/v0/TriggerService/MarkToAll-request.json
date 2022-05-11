@@ -1,0 +1,10 @@
+{
+  "text": "{{ faker.lorem.text }}",
+  "position": {
+    "lat": 1.23,
+    "lon": 1.23,
+    "alt": 1.23
+  },
+  "readOnly": true,
+  "message": "fooBar"
+}

@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.coalition.v0.CoalitionService.GetBullseye"
+  },
+  "requests": [
+    {
+      "location": "GetBullseye-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

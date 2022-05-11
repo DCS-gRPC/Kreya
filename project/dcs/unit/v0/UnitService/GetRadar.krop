@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.unit.v0.UnitService.GetRadar"
+  },
+  "requests": [
+    {
+      "location": "GetRadar-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

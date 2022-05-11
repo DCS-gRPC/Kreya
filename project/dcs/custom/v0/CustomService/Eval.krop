@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.custom.v0.CustomService.Eval"
+  },
+  "requests": [
+    {
+      "location": "Eval-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

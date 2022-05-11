@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.unit.v0.UnitService.GetPlayerName"
+  },
+  "requests": [
+    {
+      "location": "GetPlayerName-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.custom.v0.CustomService.GetMagneticDeclination"
+  },
+  "requests": [
+    {
+      "location": "GetMagneticDeclination-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

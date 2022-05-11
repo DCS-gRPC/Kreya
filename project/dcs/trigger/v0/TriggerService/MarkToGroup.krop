@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.trigger.v0.TriggerService.MarkToGroup"
+  },
+  "requests": [
+    {
+      "location": "MarkToGroup-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.mission.v0.MissionService.AddGroupCommand"
+  },
+  "requests": [
+    {
+      "location": "AddGroupCommand-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

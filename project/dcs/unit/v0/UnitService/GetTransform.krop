@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.unit.v0.UnitService.GetTransform"
+  },
+  "requests": [
+    {
+      "location": "GetTransform-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

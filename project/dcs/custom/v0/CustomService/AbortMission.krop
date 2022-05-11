@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.custom.v0.CustomService.AbortMission"
+  },
+  "requests": [
+    {
+      "location": "AbortMission-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

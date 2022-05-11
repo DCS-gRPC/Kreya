@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.trigger.v0.TriggerService.OutText"
+  },
+  "requests": [
+    {
+      "location": "OutText-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

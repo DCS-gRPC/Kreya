@@ -1,0 +1,56 @@
+{
+  "country": "COUNTRY_UNSPECIFIED",
+  "groupCategory": "GROUP_CATEGORY_UNSPECIFIED",
+  "groundTemplate": {
+    "groupId": 123,
+    "hidden": true,
+    "lateActivation": true,
+    "name": "{{ faker.name.last_name }}",
+    "position": {
+      "lat": 1.23,
+      "lon": 1.23,
+      "alt": 1.23
+    },
+    "waypoints": [
+      {
+        "altitudeType": "ALTITUDE_TYPE_UNSPECIFIED",
+        "type": "POINT_TYPE_RANDOM",
+        "action": "fooBar",
+        "form": "fooBar",
+        "speed": 1.23
+      },
+      {
+        "altitudeType": "ALTITUDE_TYPE_UNSPECIFIED",
+        "type": "POINT_TYPE_RANDOM",
+        "action": "fooBar",
+        "form": "fooBar",
+        "speed": 1.23
+      }
+    ],
+    "startTime": 123,
+    "task": "fooBar",
+    "taskSelected": true,
+    "tasks": [
+      {},
+      {}
+    ],
+    "uncontrollable": true,
+    "units": [
+      {
+        "name": "{{ faker.name.last_name }}",
+        "type": "{{ faker.database.type }}",
+        "unitId": 123,
+        "heading": 123,
+        "skill": "SKILL_RANDOM"
+      },
+      {
+        "name": "{{ faker.name.last_name }}",
+        "type": "{{ faker.database.type }}",
+        "unitId": 123,
+        "heading": 123,
+        "skill": "SKILL_RANDOM"
+      }
+    ],
+    "visible": true
+  }
+}

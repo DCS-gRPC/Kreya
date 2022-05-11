@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.group.v0.GroupService.GetUnits"
+  },
+  "requests": [
+    {
+      "location": "GetUnits-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.timer.v0.TimerService.GetTime"
+  },
+  "requests": [
+    {
+      "location": "GetTime-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

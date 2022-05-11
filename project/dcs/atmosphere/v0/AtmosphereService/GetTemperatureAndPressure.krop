@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.atmosphere.v0.AtmosphereService.GetTemperatureAndPressure"
+  },
+  "requests": [
+    {
+      "location": "GetTemperatureAndPressure-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}
