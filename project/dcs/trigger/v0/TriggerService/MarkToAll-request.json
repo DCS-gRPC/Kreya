@@ -1,10 +1,10 @@
 {
   "text": "{{ faker.lorem.text }}",
   "position": {
-    "lat": 1.23,
-    "lon": 1.23,
-    "alt": 1.23
+    "lat": 3.067096948151176,
+    "lon": 166.93744243179623,
+    "alt": 930.7797018521301
   },
   "readOnly": true,
-  "message": "fooBar"
+  "message": "white Rustic withdrawal"
 }

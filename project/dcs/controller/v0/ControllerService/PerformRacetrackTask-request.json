@@ -1,0 +1,16 @@
+{
+  "groupName": "homogeneous Rustic",
+  "startPoint": {
+    "lat": 679.5325889100086,
+    "lon": 91.52897441793536,
+    "alt": 546.7404655585437
+  },
+  "endPoint": {
+    "lat": 315.07590242429853,
+    "lon": 78.11231402680316,
+    "alt": 517.7464158999658
+  },
+  "priority": "TASKING_PRIORITY_IMMEDIATE",
+  "speed": 233,
+  "altitude": 723
+}

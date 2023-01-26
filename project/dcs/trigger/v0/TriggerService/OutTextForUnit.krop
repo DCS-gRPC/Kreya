@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.trigger.v0.TriggerService.OutTextForUnit"
+  },
+  "requests": [
+    {
+      "location": "OutTextForUnit-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

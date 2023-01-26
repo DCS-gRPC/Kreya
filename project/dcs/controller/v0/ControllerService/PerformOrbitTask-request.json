@@ -1,0 +1,11 @@
+{
+  "groupName": "homogeneous Rustic",
+  "orbitPoint": {
+    "lat": 15.583482847419896,
+    "lon": 111.96374391867546,
+    "alt": 406.1138282945068
+  },
+  "priority": "TASKING_PRIORITY_IMMEDIATE",
+  "speed": 112,
+  "altitude": 901
+}

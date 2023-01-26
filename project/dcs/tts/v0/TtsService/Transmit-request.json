@@ -1,0 +1,16 @@
+{
+  "ssml": "bandwidth deposit Tasty Cotton Keyboard",
+  "plaintext": "Cotton Shoes & Tools",
+  "frequency": "8",
+  "srsClientName": "Station Intranet invoice",
+  "position": {
+    "lat": 43.240251497300086,
+    "lon": 625.5174100769188,
+    "alt": 507.9496269223663
+  },
+  "coalition": "COALITION_BLUE",
+  "async": false,
+  "aws": {
+    "voice": "teal eco-centric Savings Account"
+  }
+}

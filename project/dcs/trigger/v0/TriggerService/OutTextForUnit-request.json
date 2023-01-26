@@ -1,0 +1,6 @@
+{
+  "text": "{{ faker.lorem.text }}",
+  "displayTime": 712,
+  "clearView": true,
+  "unitId": 523
+}

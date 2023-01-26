@@ -1,0 +1,15 @@
+{
+  "name": "{{ faker.name.last_name }}",
+  "country": "COUNTRY_NORWAY",
+  "type": "{{ faker.database.type }}",
+  "livery": "mobile Specialist sky blue",
+  "dead": true,
+  "rate": 271,
+  "heading": 984.0779493499651,
+  "position": {
+    "lat": 15.710530834172499,
+    "lon": 417.09545057869155,
+    "alt": 589.716484959363
+  },
+  "cargoMass": 929
+}

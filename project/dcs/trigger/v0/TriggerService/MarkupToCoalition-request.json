@@ -1,0 +1,31 @@
+{
+  "shape": "SHAPE_LINE",
+  "coalition": "COALITION_NEUTRAL",
+  "points": [
+    {
+      "lat": 290.5551021229529,
+      "lon": 597.8363616399151,
+      "alt": 819.7927680170147
+    },
+    {
+      "lat": 636.0752875242953,
+      "lon": 253.54800823274658,
+      "alt": 54.121337532499055
+    }
+  ],
+  "borderColor": {
+    "red": 38.21835421923444,
+    "green": 780.6172678550417,
+    "blue": 231.90831390021998,
+    "alpha": 259.69003504380913
+  },
+  "fillColor": {
+    "red": 76.60922120221281,
+    "green": 786.1099620212104,
+    "blue": 542.41116186382,
+    "alpha": 658.6766331997625
+  },
+  "lineType": "LINE_TYPE_TWO_DASH",
+  "readOnly": true,
+  "message": "white Rustic withdrawal"
+}

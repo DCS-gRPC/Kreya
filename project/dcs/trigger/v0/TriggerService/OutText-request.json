@@ -1,5 +1,5 @@
 {
   "text": "{{ faker.lorem.text }}",
-  "displayTime": 123,
+  "displayTime": 6,
   "clearView": true
 }

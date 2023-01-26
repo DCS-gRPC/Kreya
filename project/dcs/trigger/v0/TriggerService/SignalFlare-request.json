@@ -1,9 +1,9 @@
 {
   "position": {
-    "lat": 1.23,
-    "lon": 1.23,
-    "alt": 1.23
+    "lat": 218.33247924478636,
+    "lon": 19.57145060573166,
+    "alt": 601.0859504465218
   },
-  "color": "FLARE_COLOR_UNSPECIFIED",
-  "azimuth": 123
+  "color": "FLARE_COLOR_YELLOW",
+  "azimuth": 581
 }

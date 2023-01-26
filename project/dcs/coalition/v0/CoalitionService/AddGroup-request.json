@@ -1,35 +1,35 @@
 {
-  "country": "COUNTRY_UNSPECIFIED",
-  "groupCategory": "GROUP_CATEGORY_UNSPECIFIED",
+  "country": "COUNTRY_ROMANIA",
+  "groupCategory": "GROUP_CATEGORY_HELICOPTER",
   "groundTemplate": {
-    "groupId": 123,
+    "groupId": 94,
     "hidden": true,
     "lateActivation": true,
     "name": "{{ faker.name.last_name }}",
     "position": {
-      "lat": 1.23,
-      "lon": 1.23,
-      "alt": 1.23
+      "lat": 902.4449128154209,
+      "lon": 818.6870361759665,
+      "alt": 863.5906881703114
     },
     "waypoints": [
       {
-        "altitudeType": "ALTITUDE_TYPE_UNSPECIFIED",
-        "type": "POINT_TYPE_RANDOM",
-        "action": "fooBar",
-        "form": "fooBar",
-        "speed": 1.23
+        "altitudeType": "ALTITUDE_TYPE_BAROMETRIC",
+        "type": "POINT_TYPE_TAKEOFF_PARKING_HOT",
+        "action": "withdrawal SMTP Switchable",
+        "form": "Incredible Steel Ball",
+        "speed": 365.94507148719475
       },
       {
         "altitudeType": "ALTITUDE_TYPE_UNSPECIFIED",
-        "type": "POINT_TYPE_RANDOM",
-        "action": "fooBar",
-        "form": "fooBar",
-        "speed": 1.23
+        "type": "POINT_TYPE_TAKEOFF",
+        "action": "withdrawal SMTP Switchable",
+        "form": "Incredible Steel Ball",
+        "speed": 585.5019766799154
       }
     ],
-    "startTime": 123,
-    "task": "fooBar",
-    "taskSelected": true,
+    "startTime": 810,
+    "task": "District synthesizing RSS",
+    "taskSelected": false,
     "tasks": [
       {},
       {}
@@ -39,16 +39,16 @@
       {
         "name": "{{ faker.name.last_name }}",
         "type": "{{ faker.database.type }}",
-        "unitId": 123,
-        "heading": 123,
-        "skill": "SKILL_RANDOM"
+        "unitId": 930,
+        "heading": 429,
+        "skill": "SKILL_HIGH"
       },
       {
         "name": "{{ faker.name.last_name }}",
         "type": "{{ faker.database.type }}",
-        "unitId": 123,
-        "heading": 123,
-        "skill": "SKILL_RANDOM"
+        "unitId": 42,
+        "heading": 742,
+        "skill": "SKILL_EXCELLENT"
       }
     ],
     "visible": true

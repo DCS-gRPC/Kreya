@@ -1,0 +1,12 @@
+{
+  "name": "{{ faker.name.last_name }}",
+  "country": "COUNTRY_UKRAINE",
+  "type": "{{ faker.database.type }}",
+  "livery": "mobile Specialist sky blue",
+  "dead": false,
+  "rate": 677,
+  "unit": "Loop",
+  "angle": 40.309218994180576,
+  "x": 241.33295553754684,
+  "y": 536.2213763796364
+}

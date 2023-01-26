@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.controller.v0.ControllerService.PerformOrbitTask"
+  },
+  "requests": [
+    {
+      "location": "PerformOrbitTask-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

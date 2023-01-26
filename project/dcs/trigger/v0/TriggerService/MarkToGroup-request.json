@@ -1,12 +1,12 @@
 {
-  "id": 123,
+  "id": 488,
   "text": "{{ faker.lorem.text }}",
   "position": {
-    "lat": 1.23,
-    "lon": 1.23,
-    "alt": 1.23
+    "lat": 288.83967930048385,
+    "lon": 696.6401492313079,
+    "alt": 160.22172965603815
   },
-  "groupId": 123,
-  "readOnly": true,
-  "message": "fooBar"
+  "groupId": 185,
+  "readOnly": false,
+  "message": "white Rustic withdrawal"
 }

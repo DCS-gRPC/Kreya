@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.controller.v0.ControllerService.PerformRacetrackTask"
+  },
+  "requests": [
+    {
+      "location": "PerformRacetrackTask-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

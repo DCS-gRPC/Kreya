@@ -1,12 +1,12 @@
 {
-  "coalition": "COALITION_ALL",
+  "coalition": "COALITION_NEUTRAL",
   "name": "{{ faker.name.last_name }}",
   "path": [
-    "fooBar",
-    "fooBar"
+    "Armenia",
+    "Armenia"
   ],
   "details": {
-    "value1": "fooBar",
-    "value2": 123
+    "value1": "Global Spurs deposit",
+    "value2": 401
   }
 }

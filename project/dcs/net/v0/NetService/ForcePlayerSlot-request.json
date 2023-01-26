@@ -1,5 +1,5 @@
 {
-  "playerId": 123,
-  "coalition": "COALITION_ALL",
-  "slotId": "fooBar"
+  "playerId": 71,
+  "coalition": "COALITION_NEUTRAL",
+  "slotId": "{{ faker.random.uuid }}"
 }

@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.hook.v0.HookService.GetBallisticsCount"
+  },
+  "requests": [
+    {
+      "location": "GetBallisticsCount-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.tts.v0.TtsService.Transmit"
+  },
+  "requests": [
+    {
+      "location": "Transmit-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

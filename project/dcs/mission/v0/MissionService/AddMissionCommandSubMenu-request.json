@@ -1,7 +1,7 @@
 {
   "name": "{{ faker.name.last_name }}",
   "path": [
-    "fooBar",
-    "fooBar"
+    "Armenia",
+    "Armenia"
   ]
 }

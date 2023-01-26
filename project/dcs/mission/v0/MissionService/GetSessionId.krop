@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "dcs.mission.v0.MissionService.GetSessionId"
+  },
+  "requests": [
+    {
+      "location": "GetSessionId-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}
